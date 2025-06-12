@@ -17,5 +17,5 @@ Visuilization Code + Analysis for Presentation
 - Visualization_Analysis.py
 - VisualizatIon_Analysis_Continued.py
 
-Explore, Transform, Other Brainstorm Analysis
+Explore, transform, other Brainstorm Analysis
 - Analysis Folder
